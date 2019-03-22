@@ -1,0 +1,7 @@
+__pycahce__/
+build/
+dist/
+*.spec
+*.swp
+*.pyc
+rt/
