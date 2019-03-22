@@ -16,3 +16,4 @@ $(PREFIX)/keyedcsv-rename : dist/keyedcsv-rename/keyedcsv-rename
 
 clean:
 	rm -f *.spec
+	rm -rf build
